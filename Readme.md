@@ -35,3 +35,5 @@ python Viewport.ipynb
 Once the above steps are executed the output obtained is as follows:
 
 ![Screenshot](output.png)
+
+This output can be rotated and viewed 360 degrees in terminal
