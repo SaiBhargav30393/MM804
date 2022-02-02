@@ -2,11 +2,14 @@
 
 ## Requirements
 vtk==9.1.0
+
 python==3.8.8
 
 ## Image description
 Name - hogwarts.stl
+
 File size - 24364 kb
+
 Number of vertices - 749709
 
 ## Description
@@ -26,7 +29,7 @@ pip install -r requirements.txt
 
 Then run python file using command:
 
-python renderer.py
+python Viewport.ipynb
 
 # Output
 Once the above steps are executed the output obtained is as follows:
